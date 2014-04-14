@@ -1,0 +1,11 @@
+{
+  "name": "ChromeExtensionBrowserActionSample",
+  "version": "0.1.0",
+  "description": "this is sample of Chrome Extension browser_action",
+  "manifest_version": 2,
+  "browser_action": {
+    "default_icon": "images/icon128.png",
+    "default_title": "title browser action",
+    "default_popup": "sample.html"
+  }
+}
